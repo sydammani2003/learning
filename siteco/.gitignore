@@ -1,0 +1,143 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+.dart_tool/
+build/
+android/.gradle/
+android/.idea/
+android/app/build/
+*.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore user directories
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pid
+*.seed
+*.sqlite
+.cache/
+.venv/
+.vscode/
+.idea/
+*.swp
+
+# Ignore build & dependency folders
+dist/
+build/
+target/
+out/
+bin/
+obj/
+*.lock
+
+# Ignore environment and secret files
+.env
+.env.local
+.env.development
+.env.production
+config.json
+secrets.json
+
+# Ignore OS-specific files
+*.bak
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+ntuser.dat*
+ntuser.ini
+NTUSER.DAT*
+
+# Ignore database & model files
+*.db
+*.h5
+*.hdf5
+*.sqlite3
+*.pkl
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore large dataset files
+*.csv
+*.tsv
+*.json
+*.parquet
+*.feather
+
+# Ignore Android/Gradle specific files (if working with Android)
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Ignore Eclipse/Java specific files
+*.class
+*.project
+*.settings/
+*.classpath
+
+
